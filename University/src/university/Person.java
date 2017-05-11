@@ -32,7 +32,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" + "fname=" + fname + ", surname=" + surname + ", idno=" + idno + '}';
+        return "Person{" + "Your name is : " + fname + ", surname=" + surname + "and your  idno=" + idno + '}';
     }
     
 }
