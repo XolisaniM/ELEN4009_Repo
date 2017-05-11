@@ -22,6 +22,14 @@ public class Person {
         this.surname =sname;
     }
 
+    public String getFname() {
+        return fname;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
+
     public String getIdno() {
         return idno;
     }
